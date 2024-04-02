@@ -1,0 +1,4 @@
+﻿  Str.cpp
+C:\Users\User\source\repos\Str\Str\Str.cpp(22,22): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\User\source\repos\Str\Str\Str.cpp(96,15): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  Str.vcxproj -> C:\Users\User\source\repos\Str\x64\Debug\Str.exe
